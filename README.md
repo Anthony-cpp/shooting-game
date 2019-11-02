@@ -18,7 +18,7 @@
 This is a shooting game.
 
 
-I used this cord [HERE!](https://Github.com/Ryoga-exe/My_New_DxLib_Template) 
+I used this code [HERE!](https://Github.com/Ryoga-exe/My_New_DxLib_Template) 
 
 
 This program uses [Dxlib](https://dxlib.xsrv.jp).
